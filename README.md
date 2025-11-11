@@ -64,6 +64,6 @@ Remove Docker image:
 - Multilib: Verified with `x86_64-elf-gcc -m32 -v`.
 
 Contributions welcome! Fork and PR to [abhishekprajapatt/kernel-os](https://github.com/abhishekprajapatt/kernel-os).
-
+<!--
 # Screenshot
-![Pac-Man Game Over Screen](./assets/kernel-os.png)
+![KernelOS](./assets/kernel-os.png) -->
